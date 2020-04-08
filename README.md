@@ -1,4 +1,5 @@
 # Loan Approval Prediction
+[![HitCount](http://hits.dwyl.com/rehanrehman389/{project}.svg)](http://hits.dwyl.com/rehanrehman389/{project})
 
 
 ## Model
